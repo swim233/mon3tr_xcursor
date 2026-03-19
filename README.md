@@ -6,3 +6,12 @@
 
 
 <img width="553" height="210" alt="image" src="https://github.com/user-attachments/assets/3825ccc4-27de-4578-a8fb-af94dbfa21ff" />
+
+安装
+
+```shell
+git clone https://github.com/swim233/mon3tr_xcursor &&
+cd mon3tr_xcursor &&
+chmod +x install.sh &&
+./install.sh
+```
